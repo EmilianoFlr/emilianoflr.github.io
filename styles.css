@@ -1,0 +1,23 @@
+.bg{
+    background-image: url("./Images/pikrepo.jpg");
+}
+.bgfoot{
+    background-color: black;
+}
+
+.bgnav{
+    background-color: black;
+}
+.imgper{
+    margin: 30px;
+    border-radius: 10px;
+    max-width: 250px;
+    max-height: 250px;
+    border-style: solid;
+    border-radius: auto;
+    border-color: black;
+}
+.redes{
+    max-width: 20px;
+    max-height: 20px;
+}
